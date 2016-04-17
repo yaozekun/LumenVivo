@@ -1,0 +1,20 @@
+ul{list-style: none;}
+
+.leftMenu{background-color: #333;height:100vh;color:#fff;}
+
+.leftMenu{font-size: 16px;line-height: 24px;}
+
+.leftMenu h1{text-align: center;padding-bottom: 20px;}
+
+.leftMenu .copyright{position:absolute;bottom:0;width:100px;left:50%;margin-left:-50px;text-align: center;}
+.leftMenu .copyright h3{font-size: 16px;color:#bbb;border-top: 1px #444 solid;padding: 10px 0;}
+
+
+
+
+
+
+
+
+
+
